@@ -264,3 +264,4 @@
 {"jsonrpc":"2.0","id":1,"result":"0x591cac314"}
 {"error":"{\"Error_GUID\":\"1450547551554344210\",\"Error\":\"Failed all retries {GUID:1450547551554344210,error:rpc error: code = DeadlineExceeded desc = context deadline exceeded,chain_id:ETH1}\"}"}
 {"jsonrpc":"2.0","id":1,"result":"0x59ef4c963"}
+{"error":"{\"Error_GUID\":\"7358033739557188262\",\"Error\":\"Failed all retries {GUID:7358033739557188262,error:rpc error: code = Unavailable desc = unexpected HTTP status code received from server: 502 (Bad Gateway); transport: received unexpected content-type \\\"text/html\\\",chain_id:ETH1}\"}"}
